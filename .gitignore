@@ -1,0 +1,77 @@
+# ===============================
+# Unity generated
+# ===============================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# ===============================
+# OS / IDE
+# ===============================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+.vs/
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Rider
+.idea/
+
+# ===============================
+# Unity cache
+# ===============================
+*.tmp
+*.bak
+*.swp
+
+# ===============================
+# Crash & logs
+# ===============================
+sysinfo.txt
+crashlytics-build.properties
+
+# ===============================
+# Build artifacts
+# ===============================
+*.apk
+*.aab
+*.ipa
+*.app
+*.exe
+*.x86_64
+*.unitypackage
+
+# ===============================
+# WebGL (generated)
+# ===============================
+*.data
+*.wasm
+*.framework.js
+*.loader.js
+
+# ===============================
+# Addressables / AssetBundles
+# ===============================
+AssetBundles/
+Assets/StreamingAssets/aa/
+
+# ===============================
+# Ignore everything in StreamingAssets
+# (если не используешь их как контент)
+# ===============================
+# Assets/StreamingAssets/*
+# !Assets/StreamingAssets/.gitkeep
